@@ -72,14 +72,21 @@ I'm a Final Year Computer Science Student passionate about **Artificial Intellig
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-pied-tau-85.vercel.app/&show_icons=true&theme=radical" alt="JAbasith's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=JAbasith&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JAbasith&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
+
+### 📊 Activity Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAbasith&theme=radical" alt="Profile Details" width="100%"/>
 
 <p align="center">
-  <img src="https://api.github-readme-stats.vercel.app/api/top-langs/?username=JAbasith&layout=compact&theme=radical" alt="JAbasith's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JAbasith&theme=radical" alt="Most Commit Language" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JAbasith&theme=radical" alt="Stats" height="180px"/>
 </p>
 
+### 🐍 Contribution Snake 
+![Snake animation](https://github.com/JAbasith/JAbasith/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🤝 Let's Connect
