@@ -85,8 +85,10 @@ I'm a Final Year Computer Science Student passionate about **Artificial Intellig
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JAbasith&theme=radical" alt="Stats" height="180px"/>
 </p>
 
-### 🐍 Contribution Snake 
-![Snake animation](https://github.com/JAbasith/JAbasith/output/github-contribution-grid-snake.svg)
+---
+
+### ⚡ Daily Coding Streak
+![Snake animation](https://raw.githubusercontent.com/JAbasith/github-snake-animation/main/dist/snake.svg)
 ---
 
 ### 🤝 Let's Connect
