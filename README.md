@@ -72,7 +72,7 @@ I'm a Final Year Computer Science Student passionate about **Artificial Intellig
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://api.github-readme-stats.vercel.app/api?username=JAbasith&show_icons=true&theme=radical" alt="JAbasith's GitHub Stats" />
+  <img src="https://github-readme-stats-pied-tau-85.vercel.app/&show_icons=true&theme=radical" alt="JAbasith's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=JAbasith&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
