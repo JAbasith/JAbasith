@@ -14,10 +14,27 @@ I'm a Final Year Computer Science Student passionate about **Artificial Intellig
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,c,cpp,git,github,docker,react,html,css,js,vscode&perline=7" />
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,nodejs" />
+<br/>
+<!-- Frontend & Mobile -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,flutter" />
+<br/>
+<!-- Backend & Databases -->
+<img src="https://skillicons.dev/icons?i=express,prisma,postgres,mongodb,mysql" />
+<br/>
+<!-- DevOps & Cloud -->
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+<br/>
+<!-- Tools & Services -->
+<img src="https://skillicons.dev/icons?i=github,vscode,postman" />
+<!-- Note: Jira and Mapbox/Google API aren't on skillicons.dev, so we use shields.io badges for them -->
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
