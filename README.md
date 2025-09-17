@@ -9,7 +9,7 @@ I'm a Final Year Computer Science Student passionate about **Artificial Intellig
 - 🌱 **I’m currently learning:** Large Language Models (LLMs), Advanced Java, and Docker containerization.
 - 👯 **I’m looking to collaborate on:** Open-source AI projects or innovative web scraping tools.
 - 💬 **Ask me about:** Python, Web Scraping with Beautiful Soup/Scrapy, or building REST APIs.
-- 📫 **How to reach me:** [abdhulbasith071@gmail.com].
+- 📫 **How to reach me:** abdhulbasith071@gmail.com
 - ⚡ **Fun fact:** I'm a baseball player. I believe it's the world's most intelligent game, a constant test of strategy, probability, and split-second decision making.
 
 ---
@@ -82,8 +82,13 @@ I'm a Final Year Computer Science Student passionate about **Artificial Intellig
 
 ---
 
-### 📝 Latest Blog Posts (If you write any)
-<!-- BLOG-POST-LIST:START -->
-- [Why Algorithmic Bias is a Critical Problem](https://yourblog.com/post-1)
-- [Getting Started with TensorFlow in 2024](https://yourblog.com/post-2)
-<!-- BLOG-POST-LIST:END -->
+### 🤝 Let's Connect
+
+<p align="left">
+  I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+  <br>
+  <br>
+  <a href="https://linkedin.com/in/jainoordeen-abdul-basith-9b64322a4" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" /></a> &nbsp;
+  <a href="mailto:abdhulbasith071@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="30" /></a> &nbsp;
+  <a href="https://github.com/JAbasith" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="30" /></a>
+</p>
