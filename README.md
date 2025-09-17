@@ -72,12 +72,12 @@ I'm a Final Year Computer Science Student passionate about **Artificial Intellig
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAbasith&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAbasith&theme=radical" alt="Your Streak Stats" />
+  <img src="https://your-vercel-url.vercel.app/api?username=JAbasith&show_icons=true&theme=radical&cache_seconds=1800" alt="JAbasith's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=JAbasith&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAbasith&layout=compact&theme=radical" alt="Your Top Languages" />
+  <img src="https://your-vercel-url.vercel.app/api/top-langs/?username=JAbasith&layout=compact&theme=radical&cache_seconds=1800" alt="JAbasith's Top Languages" />
 </p>
 
 ---
