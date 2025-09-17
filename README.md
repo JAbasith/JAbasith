@@ -88,7 +88,7 @@ I'm a Final Year Computer Science Student passionate about **Artificial Intellig
 ---
 
 ### ⚡ Daily Coding Streak
-![Snake animation](https://raw.githubusercontent.com/JAbasith/github-snake-animation/main/dist/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/JAbasith/github-snake-animation/main/dist/snake-dark.svg)
 ---
 
 ### 🤝 Let's Connect
