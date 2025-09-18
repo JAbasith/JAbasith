@@ -10,7 +10,7 @@ I'm a Final Year Computer Science Student passionate about **Artificial Intellig
 - 👯 **I’m looking to collaborate on:** Open-source AI projects or innovative web scraping tools.
 - 💬 **Ask me about:** Python, Web Scraping with Beautiful Soup/Scrapy, or building REST APIs.
 - 📫 **How to reach me:** abdhulbasith071@gmail.com
-- ⚡ **Fun fact:** I'm a baseball player. I believe it's the world's most intelligent game, a constant test of strategy, probability, and split-second decision making.
+- ⚾ **Fun fact:** I'm a baseball player. I believe it's the world's most intelligent game, a constant test of strategy, probability, and split-second decision making.
 
 ---
 ### 🛠️ Tech Stack & Tools
